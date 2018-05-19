@@ -1,0 +1,5 @@
+AddDefaultCharset UTF-8
+
+Require all granted
+
+Redirect permanent /exitlog_dev http://kom-ts01-dev01:8888/exitlog_dev
